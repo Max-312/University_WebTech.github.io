@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e0dae54.css",
-    "main.js": "/static/js/main.36c96620.js",
-    "static/media/Photo.jpg": "/static/media/Photo.810207b31435d9e1dd96.jpg",
-    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
-    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/profile.svg": "/static/media/profile.0a66d4a52fc0511aafde.svg",
-    "index.html": "/index.html",
-    "static/media/logo.svg": "/static/media/logo.75b1d5c1051c73fa1f4eb428c3d47e21.svg",
-    "static/media/find.svg": "/static/media/find.b805ad45b1af79ce737e.svg",
-    "static/media/icon.svg": "/static/media/icon.74dddee8184ab1408ffe.svg",
-    "static/media/delete.svg": "/static/media/delete.bd3594185d63c671c5dc.svg",
-    "static/media/close.svg": "/static/media/close.47a9344c64aa39423eaf.svg",
-    "static/media/arrow.svg": "/static/media/arrow.a11b25bdf8f2aea4abf2.svg",
-    "static/media/burger.svg": "/static/media/burger.b71b3a967cc653a5be4f.svg",
-    "static/media/saved.svg": "/static/media/saved.009ab2eade12855876d9.svg",
-    "main.4e0dae54.css.map": "/static/css/main.4e0dae54.css.map",
-    "main.36c96620.js.map": "/static/js/main.36c96620.js.map"
+    "main.css": "/University_WebTech.github.io/static/css/main.2a4df363.css",
+    "main.js": "/University_WebTech.github.io/static/js/main.d7593ee7.js",
+    "static/media/Photo.jpg": "/University_WebTech.github.io/static/media/Photo.810207b31435d9e1dd96.jpg",
+    "static/media/Inter-Medium.woff": "/University_WebTech.github.io/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/University_WebTech.github.io/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/University_WebTech.github.io/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/University_WebTech.github.io/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/University_WebTech.github.io/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/University_WebTech.github.io/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/profile.svg": "/University_WebTech.github.io/static/media/profile.0a66d4a52fc0511aafde.svg",
+    "index.html": "/University_WebTech.github.io/index.html",
+    "static/media/logo.svg": "/University_WebTech.github.io/static/media/logo.75b1d5c1051c73fa1f4eb428c3d47e21.svg",
+    "static/media/find.svg": "/University_WebTech.github.io/static/media/find.b805ad45b1af79ce737e.svg",
+    "static/media/icon.svg": "/University_WebTech.github.io/static/media/icon.74dddee8184ab1408ffe.svg",
+    "static/media/delete.svg": "/University_WebTech.github.io/static/media/delete.bd3594185d63c671c5dc.svg",
+    "static/media/close.svg": "/University_WebTech.github.io/static/media/close.47a9344c64aa39423eaf.svg",
+    "static/media/arrow.svg": "/University_WebTech.github.io/static/media/arrow.a11b25bdf8f2aea4abf2.svg",
+    "static/media/burger.svg": "/University_WebTech.github.io/static/media/burger.b71b3a967cc653a5be4f.svg",
+    "static/media/saved.svg": "/University_WebTech.github.io/static/media/saved.009ab2eade12855876d9.svg",
+    "main.2a4df363.css.map": "/University_WebTech.github.io/static/css/main.2a4df363.css.map",
+    "main.d7593ee7.js.map": "/University_WebTech.github.io/static/js/main.d7593ee7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e0dae54.css",
-    "static/js/main.36c96620.js"
+    "static/css/main.2a4df363.css",
+    "static/js/main.d7593ee7.js"
   ]
 }
