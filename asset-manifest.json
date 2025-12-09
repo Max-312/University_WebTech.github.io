@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Max-312/University_WebTech/static/css/main.8e3eaf1c.css",
-    "main.js": "/Max-312/University_WebTech/static/js/main.036f9c46.js",
-    "static/media/Photo.jpg": "/Max-312/University_WebTech/static/media/Photo.810207b31435d9e1dd96.jpg",
-    "static/media/Inter-Medium.woff": "/Max-312/University_WebTech/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
-    "static/media/Inter-Black.woff": "/Max-312/University_WebTech/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/Max-312/University_WebTech/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2": "/Max-312/University_WebTech/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/Inter-Black.woff2": "/Max-312/University_WebTech/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/Max-312/University_WebTech/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/profile.svg": "/Max-312/University_WebTech/static/media/profile.0a66d4a52fc0511aafde.svg",
-    "index.html": "/Max-312/University_WebTech/index.html",
-    "static/media/logo.svg": "/Max-312/University_WebTech/static/media/logo.75b1d5c1051c73fa1f4eb428c3d47e21.svg",
-    "static/media/find.svg": "/Max-312/University_WebTech/static/media/find.b805ad45b1af79ce737e.svg",
-    "static/media/icon.svg": "/Max-312/University_WebTech/static/media/icon.74dddee8184ab1408ffe.svg",
-    "static/media/delete.svg": "/Max-312/University_WebTech/static/media/delete.bd3594185d63c671c5dc.svg",
-    "static/media/close.svg": "/Max-312/University_WebTech/static/media/close.47a9344c64aa39423eaf.svg",
-    "static/media/arrow.svg": "/Max-312/University_WebTech/static/media/arrow.a11b25bdf8f2aea4abf2.svg",
-    "static/media/burger.svg": "/Max-312/University_WebTech/static/media/burger.b71b3a967cc653a5be4f.svg",
-    "static/media/saved.svg": "/Max-312/University_WebTech/static/media/saved.009ab2eade12855876d9.svg",
-    "main.8e3eaf1c.css.map": "/Max-312/University_WebTech/static/css/main.8e3eaf1c.css.map",
-    "main.036f9c46.js.map": "/Max-312/University_WebTech/static/js/main.036f9c46.js.map"
+    "main.css": "/static/css/main.4e0dae54.css",
+    "main.js": "/static/js/main.36c96620.js",
+    "static/media/Photo.jpg": "/static/media/Photo.810207b31435d9e1dd96.jpg",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/profile.svg": "/static/media/profile.0a66d4a52fc0511aafde.svg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.75b1d5c1051c73fa1f4eb428c3d47e21.svg",
+    "static/media/find.svg": "/static/media/find.b805ad45b1af79ce737e.svg",
+    "static/media/icon.svg": "/static/media/icon.74dddee8184ab1408ffe.svg",
+    "static/media/delete.svg": "/static/media/delete.bd3594185d63c671c5dc.svg",
+    "static/media/close.svg": "/static/media/close.47a9344c64aa39423eaf.svg",
+    "static/media/arrow.svg": "/static/media/arrow.a11b25bdf8f2aea4abf2.svg",
+    "static/media/burger.svg": "/static/media/burger.b71b3a967cc653a5be4f.svg",
+    "static/media/saved.svg": "/static/media/saved.009ab2eade12855876d9.svg",
+    "main.4e0dae54.css.map": "/static/css/main.4e0dae54.css.map",
+    "main.36c96620.js.map": "/static/js/main.36c96620.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e3eaf1c.css",
-    "static/js/main.036f9c46.js"
+    "static/css/main.4e0dae54.css",
+    "static/js/main.36c96620.js"
   ]
 }
