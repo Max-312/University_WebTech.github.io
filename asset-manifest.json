@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/University_WebTech.github.io/static/css/main.2a4df363.css",
-    "main.js": "/University_WebTech.github.io/static/js/main.d7593ee7.js",
+    "main.js": "/University_WebTech.github.io/static/js/main.69575409.js",
     "static/media/Photo.jpg": "/University_WebTech.github.io/static/media/Photo.810207b31435d9e1dd96.jpg",
     "static/media/Inter-Medium.woff": "/University_WebTech.github.io/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff": "/University_WebTech.github.io/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -20,10 +20,10 @@
     "static/media/burger.svg": "/University_WebTech.github.io/static/media/burger.b71b3a967cc653a5be4f.svg",
     "static/media/saved.svg": "/University_WebTech.github.io/static/media/saved.009ab2eade12855876d9.svg",
     "main.2a4df363.css.map": "/University_WebTech.github.io/static/css/main.2a4df363.css.map",
-    "main.d7593ee7.js.map": "/University_WebTech.github.io/static/js/main.d7593ee7.js.map"
+    "main.69575409.js.map": "/University_WebTech.github.io/static/js/main.69575409.js.map"
   },
   "entrypoints": [
     "static/css/main.2a4df363.css",
-    "static/js/main.d7593ee7.js"
+    "static/js/main.69575409.js"
   ]
 }
